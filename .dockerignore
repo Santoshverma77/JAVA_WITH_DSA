@@ -1,0 +1,9 @@
+# Ignore all .class files
+*.class
+
+# Ignore IDE specific files
+.vscode/
+.idea/
+
+# Ignore OS generated files
+.DS_Store

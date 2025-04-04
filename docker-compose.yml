@@ -1,0 +1,9 @@
+version: '3.8'
+
+services:
+  java-dev:
+    build: .
+    volumes:
+      - .:/app
+    working_dir: /app
+    tty: true
