@@ -9,7 +9,7 @@ public class  binarysearch  {
             int mid = (start + end) / 2;
             
             if (arr[mid] == key) {
-                return mid;  x
+                return mid;
             }
             if (arr[mid] < key) {
                 start = mid + 1;  

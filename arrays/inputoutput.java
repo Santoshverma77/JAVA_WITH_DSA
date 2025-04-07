@@ -19,6 +19,7 @@ public class inputoutput {
         System.out.println("also here is the lenght of your array "+ arr.length);
 
         // int input = sc.nextInt();
+        sc.close();
 
     }
 }
